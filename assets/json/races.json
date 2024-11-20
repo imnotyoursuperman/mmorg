@@ -1,0 +1,6 @@
+{
+    "human": {"knowledge": 5},
+    "elf": {"intelligence": 8, "elemental_qi": 10},
+    "orc": {"strength": 10},
+    "goblin": {"speed": 7}
+}
