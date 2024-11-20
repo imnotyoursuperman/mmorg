@@ -1,0 +1,5 @@
+{
+    "warrior": {"strength": 10, "defense": 8},
+    "mage": {"intelligence": 12, "mana": 15},
+    "paladin": {"strength": 8, "divine_qi": 10}
+}
