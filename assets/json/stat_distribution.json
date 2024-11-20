@@ -1,0 +1,4 @@
+{
+    "base": {"health": 50, "mana": 20, "strength": 5, "intelligence": 5},
+    "level_up": {"points": 5}
+}
