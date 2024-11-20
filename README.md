@@ -44,4 +44,17 @@ Reusable message templates for a consistent experience.
 # Dev
 Heavenly Demon
 
+# Future Enhancements
+
+Combat system with PvE and PvP options.
+
+Economy system with inventory, trading, and crafting.
+
+Advanced questlines and storyline events.
+
+Leaderboards and multiplayer guild mechanics.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 ---
